@@ -15,6 +15,7 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a> */}
+        <div>this change is added in sushil-dev</div>
       </div>
       <div>this change has been done in mian branch</div>
       <h1>Vite + React</h1>
